@@ -1,7 +1,7 @@
 package user
 
 import(
-	"github.com/akhil/go-serverless-yt/pkg/validators"
+	"github.com/Mr-Dazai/ServerLess-APIGateway-DynamoDB-Lambda/pkg/validators"
 	"encoding/json"
 	"errors"
 	"github.com/aws/aws-lambda-go/events"

@@ -1,7 +1,7 @@
 package handlers
 
 import(
-	"github.com/akhil/go-serverless-yt/pkg/user"
+	"github.com/Mr-Dazai/ServerLess-APIGateway-DynamoDB-Lambda/pkg/user"
 	"net/http"
 	"github.com/aws/aws-lambda-go/events"
 	"github.com/aws/aws-sdk-go/aws"
